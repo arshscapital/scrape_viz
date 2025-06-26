@@ -1,1 +1,1 @@
-# scrape_viz
+Scrapes GDP table & spits bar chart.
